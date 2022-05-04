@@ -1,0 +1,22 @@
+{
+  "name": "OATH",
+  "version": "1.0.0",
+  "description": "A custum implemetation of JavaScript Promise Class",
+  "main": "oath.js",
+  "scripts": {
+    "test": "jest --watchAll --noStackTrace"
+  },
+  "keywords": [
+    "javascript",
+    "promise",
+    "asynchronous",
+    "oath",
+    "functions",
+    "class"
+  ],
+  "author": "Saad Raza",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
